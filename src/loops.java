@@ -1,4 +1,4 @@
-public class loops {package LoopExercises;
+public class loops {
 
     public class Loopy {
 

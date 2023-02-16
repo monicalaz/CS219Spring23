@@ -1,4 +1,4 @@
-public class stringplayjava {package Chapter6;
+public class stringplayjava {
 
     public class StringPlay {
 
